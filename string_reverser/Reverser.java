@@ -6,7 +6,7 @@ public class Reverser {
   public static void main(String[] args) {
         // Take input from the user
         Scanner reader = new Scanner(System.in);
-        System.out.print("Enter a string to reverse:" + "\n");
+        System.out.print("Enter a string to reverse: ");
 
             String s = reader.nextLine();
             // Object Initialised
